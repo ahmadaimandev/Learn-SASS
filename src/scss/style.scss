@@ -1,0 +1,16 @@
+$base-font-size: 18px;
+$background-color: #93981a;
+$background-color2: pink;
+
+html, body {
+    font-size: 18px;
+    background-color: $background-color;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    background-color: $background-color2;
+}
+
