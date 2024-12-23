@@ -1,4 +1,4 @@
- html, body {
+html, body {
   font-size: 18px;
   background-color: #93981a;
 }
@@ -8,4 +8,10 @@
   margin: 0 auto;
   padding: 0 20px;
   background-color: pink;
+}
+
+h1 {
+  color: #fff;
+  font-size: 20em;
+  font-family: "Courier New", Courier, monospace;
 }/*# sourceMappingURL=style.css.map */
